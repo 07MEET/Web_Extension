@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "AI Shopping Assistant",
+  "description": "AI-powered assistant to help users make informed shopping decisions.",
+  "version": "1.0",
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "permissions": ["activeTab"]
+}
