@@ -1,7 +1,7 @@
 # AI Shopping Assistant – Chrome Extension  
 ### Agile with DevOps Project
 
-## 📌 Project Overview
+## Project Overview
 
 The **AI Shopping Assistant** is a Chrome browser extension that helps users make informed online shopping decisions. It extracts product information from shopping websites and uses an AI model to analyze prices, ratings, and features to provide recommendations, comparisons, and buying advice.
 
@@ -9,7 +9,7 @@ This project is developed as part of the **Agile with DevOps** academic course a
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Build an AI-powered online shopping assistant
 - Apply Agile principles such as user stories, sprints, and incremental delivery
@@ -19,7 +19,7 @@ This project is developed as part of the **Agile with DevOps** academic course a
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Product data extraction from shopping websites
 - AI-based product analysis and recommendations
@@ -30,7 +30,7 @@ This project is developed as part of the **Agile with DevOps** academic course a
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - Chrome Extension
