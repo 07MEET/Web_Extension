@@ -50,7 +50,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title section
-st.markdown('<div class="title">🛒 Smart Shopping AI Assistant</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">Smart Shopping AI Assistant</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Compare prices • Get product insights • Shop smarter using AI</div>', unsafe_allow_html=True)
 
 # Initialize LLM
@@ -62,7 +62,7 @@ model = ChatOpenAI(
 # Input area
 st.markdown("###  Ask anything about a product")
 user_input = st.text_area(
-    "Example: Is this product worth buying? Compare prices for iPhone 15.",
+    "Example: Compare prices for iPhone 15.",
     height=120
 )
 
@@ -85,6 +85,6 @@ if st.button(" Ask AI"):
 st.markdown("""
 <div class="footer">
     Built as part of <b>Agile Product Development with DevOps</b><br>
-     Smart Shopping Assistant | AI-Powered Chrome Extension
+                    Smart Shopping Assistant 
 </div>
 """, unsafe_allow_html=True)
